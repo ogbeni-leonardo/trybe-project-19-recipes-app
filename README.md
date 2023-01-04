@@ -28,7 +28,7 @@ A aplicação foi desenvolvida para se comportar de forma mais efetiva em telas 
 
 Esta aplicação foi desenvolvida com a ajuda de:
 
-[Daniel Gomes](https://github.com/DanielGomesTB)
-[Ezequiel Machado](https://github.com/EzequielLM)
-[Heitor Gontijo](https://github.com/heitorgontijo)
-[Victor Lima](https://github.com/victorlgarcia)
+- [Daniel Gomes](https://github.com/DanielGomesTB)
+- [Ezequiel Machado](https://github.com/EzequielLM)
+- [Heitor Gontijo](https://github.com/heitorgontijo)
+- [Victor Lima](https://github.com/victorlgarcia)
